@@ -1,2 +1,2 @@
 # hello-world
-Just a testing repository
+hello every one it's a draft.
